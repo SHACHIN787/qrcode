@@ -63,7 +63,7 @@ button{
     
 }
 .generate-code{
-    background-color: #3498db;
+    background-color:black; /*#3498db*/
 }
 .generate-code:disabled{
     background-color: antiquewhite;
