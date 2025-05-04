@@ -44,6 +44,7 @@ input[placeholder]{
 }
 button{
     padding: 30px 35px; /* values from 15px 20px to changed on 4/5/25 */
+    margin-top:10px; /*inital no margin*/
     font-size: 18px;
     color: azure;
     border: none;
