@@ -4,7 +4,7 @@ import { useState } from "react";
 export const QrC = () => {
     const [ img,setImg]    =   useState("")
     const [loading,setLoading] = useState(false);
-    const [qrdata,setQrData]= useState();
+    const [qrdata,setQrData]= useState("");
     const [qrsize,setQrSize] = useState("")
     async function generateQr() 
     {   
